@@ -3,7 +3,7 @@ from sys import exit
 
 os.system('clear')
 
-os.chdir('/Users/jaliljusay/Documents/Python_Files/Python Lessons and notes/Pygame Tutorial/')
+os.chdir('/Users/username/Documents/Python_Files/Python Lessons and notes/Pygame Tutorial/')
 print(os.getcwd())
 pygame.init()
 
